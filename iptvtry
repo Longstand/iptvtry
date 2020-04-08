@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,A
+https://freeiptvserver.com/dl/us_060420_iptvsource_com.m3u
+#EXTINF:-1,B
+https://freeiptvserver.com/dl/us_060420_iptvsource_com2.m3u
+#EXTINF:-1,C
+https://freeiptvserver.com/dl/us_060420_iptvsource_com3.m3u
+#EXTINF:-1,D
 https://freeiptvserver.com/dl/us_060420_iptvsource_com4.m3u
